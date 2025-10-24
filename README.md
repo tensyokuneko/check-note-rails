@@ -110,7 +110,7 @@ SQLiteを採用し、環境構築を簡略化。本番環境ではPostgreSQLに�
 
 1. **リポジトリのクローン**
 ```bash
-git clone https://github.com/YOUR_USERNAME/check_note_rails.git
+git clone https://github.com/tensyokuneko/check-note-rails.git
 cd check_note_rails
 ```
 
